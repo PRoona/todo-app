@@ -21,6 +21,11 @@ This is a simple serverless ToDo web application built with AWS Lambda, API Gate
 - API: AWS API Gateway
 - Hosting: GitHub Pages
 
+## Backend Lambda Function
+
+The backend AWS Lambda function code is available in `lambda_function.py`.
+
+
 ---
 
 *Created as a learning project to explore serverless development with AWS.*
